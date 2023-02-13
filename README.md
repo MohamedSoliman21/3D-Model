@@ -1,5 +1,6 @@
 https://user-images.githubusercontent.com/121597869/217413982-80c839eb-dde1-41c4-a81f-4620f582729c.mp4
 
+Preview: https://codesandbox.io/p/github/MohamedSoliman21/3D-Model/main?file=%2Fsrc%2FApp.js
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
